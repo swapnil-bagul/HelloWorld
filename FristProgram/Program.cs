@@ -7,6 +7,10 @@ namespace FristProgram
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("frist program");
+            Console.WriteLine("version");
+            Console.WriteLine("frist program");
+
         }
     }
 }
