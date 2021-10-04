@@ -1,0 +1,14 @@
+C:\Users\Swapnil Bagul\source\repos\FristProgram\FristProgram\bin\Debug\netcoreapp3.1\FristProgram.exe
+C:\Users\Swapnil Bagul\source\repos\FristProgram\FristProgram\bin\Debug\netcoreapp3.1\FristProgram.deps.json
+C:\Users\Swapnil Bagul\source\repos\FristProgram\FristProgram\bin\Debug\netcoreapp3.1\FristProgram.runtimeconfig.json
+C:\Users\Swapnil Bagul\source\repos\FristProgram\FristProgram\bin\Debug\netcoreapp3.1\FristProgram.runtimeconfig.dev.json
+C:\Users\Swapnil Bagul\source\repos\FristProgram\FristProgram\bin\Debug\netcoreapp3.1\FristProgram.dll
+C:\Users\Swapnil Bagul\source\repos\FristProgram\FristProgram\bin\Debug\netcoreapp3.1\FristProgram.pdb
+C:\Users\Swapnil Bagul\source\repos\FristProgram\FristProgram\obj\Debug\netcoreapp3.1\FristProgram.csproj.AssemblyReference.cache
+C:\Users\Swapnil Bagul\source\repos\FristProgram\FristProgram\obj\Debug\netcoreapp3.1\FristProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Swapnil Bagul\source\repos\FristProgram\FristProgram\obj\Debug\netcoreapp3.1\FristProgram.AssemblyInfoInputs.cache
+C:\Users\Swapnil Bagul\source\repos\FristProgram\FristProgram\obj\Debug\netcoreapp3.1\FristProgram.AssemblyInfo.cs
+C:\Users\Swapnil Bagul\source\repos\FristProgram\FristProgram\obj\Debug\netcoreapp3.1\FristProgram.csproj.CoreCompileInputs.cache
+C:\Users\Swapnil Bagul\source\repos\FristProgram\FristProgram\obj\Debug\netcoreapp3.1\FristProgram.dll
+C:\Users\Swapnil Bagul\source\repos\FristProgram\FristProgram\obj\Debug\netcoreapp3.1\FristProgram.pdb
+C:\Users\Swapnil Bagul\source\repos\FristProgram\FristProgram\obj\Debug\netcoreapp3.1\FristProgram.genruntimeconfig.cache
