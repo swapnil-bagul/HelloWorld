@@ -10,6 +10,7 @@ namespace FristProgram
             Console.WriteLine("frist program");
             Console.WriteLine("version");
             Console.WriteLine("frist program");
+            Console.WriteLine("second version");
 
         }
     }
