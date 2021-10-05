@@ -11,6 +11,7 @@ namespace FristProgram
             Console.WriteLine("version");
             Console.WriteLine("frist program");
             Console.WriteLine("second version");
+            Console.WriteLine("third version")
 
         }
     }
